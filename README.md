@@ -1,5 +1,4 @@
 # hello-world
-First github repo
 
 Hello World,
 
